@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Dinush Chathurya
-🔭 I’m currently working on @ Helium solution
+
 
 <!--
 **dinushchathurya/dinushchathurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
