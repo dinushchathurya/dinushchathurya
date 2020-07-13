@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Dinush Chathurya
 
-Founder of [codingtricks.io](http://codingtricks.io/)
+## Founder of [codingtricks.io](http://codingtricks.io/)
 <!--
 **dinushchathurya/dinushchathurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
