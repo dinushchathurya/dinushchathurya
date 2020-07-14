@@ -8,8 +8,8 @@
 [<img src="https://img.icons8.com/color/25/000000/npm.png"/>](https://www.npmjs.com/~dinush)
 [<img src="https://img.icons8.com/ios-filled/25/000000/laravel.png"/>](https://packagist.org/users/dinushchathurya/packages/)
 [<img src="https://img.icons8.com/windows/25/000000/kaggle.png"/>](https://www.kaggle.com/dinushchathurya)
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/fm-radio.png"/>](https://dinushchathurya.github.io/radio)
-[<img src="https://img.icons8.com/bubbles/50/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
+[<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://dinushchathurya.github.io/radio)
+[<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
 <!--
 ## Founder of [codingtricks.io](http://codingtricks.io/)
