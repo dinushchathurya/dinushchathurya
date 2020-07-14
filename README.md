@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Dinush Chathurya
-[<img src="<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/DinushChathurya)
+[<img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>](https://twitter.com/DinushChathurya)
 <!--
 ## Founder of [codingtricks.io](http://codingtricks.io/)
 
