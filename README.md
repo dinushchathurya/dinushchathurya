@@ -12,7 +12,7 @@
 [<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
 
-![Alt Text](https://media.giphy.com/media/Lqmth7Hbw2yU3PeAql/giphy.gif)
+![Alt Text](https://media.giphy.com/media/jS24OwZjLFWt9RV5Xn/giphy.gif)
 <!--
 ## Founder of [codingtricks.io](http://codingtricks.io/)
 
