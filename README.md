@@ -12,12 +12,12 @@
 [<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
 
-![Alt Text](https://media.giphy.com/media/jS24OwZjLFWt9RV5Xn/giphy.gif)
+
 <!--
 ## Founder of [codingtricks.io](http://codingtricks.io/)
 
 **dinushchathurya/dinushchathurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Alt Text](https://media.giphy.com/media/jS24OwZjLFWt9RV5Xn/giphy.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
