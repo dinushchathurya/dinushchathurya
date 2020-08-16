@@ -12,14 +12,8 @@
 [<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinushchathurya)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true)]
 <!--
 ## Founder of [codingtricks.io](http://codingtricks.io/)
 
