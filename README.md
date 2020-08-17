@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Dinush Chathurya
 
-## I'm Social media influencer, Developer, Content creator and Blogger!
+## I'm Social Media Influencer, Developer, Content Creator and Blogger!
 
-- 🔭 I’m currently working on a [codingtricks][website]!
+- 🔭 I’m currently working on a [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
