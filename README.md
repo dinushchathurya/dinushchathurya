@@ -1,8 +1,8 @@
-### Hi there 👋 I am Dinush Chathurya
+## Hi there 👋 I am Dinush Chathurya
 
-## I'm Social Media Influencer, Developer, Content Creator and Blogger!
+### I'm Social Media Influencer, Developer, Content Creator and Blogger!
 
-- 🔭 I’m currently working on a [codingtricks.io](http://codingtricks.io/)
+- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -40,10 +40,13 @@
 <br/>
 <br/>
 
+<div style="text-align:center;">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=radical)
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya)
+
 
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
@@ -58,7 +61,7 @@
 [<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
 
-
+</div>
 
 <!--
 ## Founder of [codingtricks.io](http://codingtricks.io/)
