@@ -57,7 +57,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [An Island paradise - Wonder of Asia](https://www.youtube.com/watch?v=oOgxKIV641o)
+- [Sri Lankan Airlines - Trailer](https://www.youtube.com/watch?v=U9oPv_T2k8g)
+- [Sri  Lanka - Cinematic Travel Film](https://www.youtube.com/watch?v=wfhQf8EcSXU)
+- [Beach Sides of Sri Lanka.](https://www.youtube.com/watch?v=imBeu23sUf8)
+- [Rebuild Sri Lanka.](https://www.youtube.com/watch?v=rPzTqTI0yHk)
 <!-- YOUTUBE:END -->
 
 ---
