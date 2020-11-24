@@ -98,11 +98,9 @@
 
 </details>
 
----
-
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia" />
+  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
 
 </details>
