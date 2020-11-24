@@ -51,7 +51,7 @@
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
 [<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/DinushChathurya)
-[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/dinushkarunarathna)
+[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/dinushchathurya)
 [<img src="https://img.icons8.com/fluent/25/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
 [<img src="https://img.icons8.com/fluent/25/000000/domain.png"/>](https://dinushchathurya.github.io)
 [<img src="https://img.icons8.com/color/25/000000/npm.png"/>](https://www.npmjs.com/~dinush)
