@@ -51,6 +51,14 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dinushchathurya&hide_title=true&hide_border=true&langs_count=5) -->
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
 ### Connect with me
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
