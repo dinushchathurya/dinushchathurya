@@ -77,8 +77,6 @@
 
 </details>
 
----
-
 ### Connect with me
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
