@@ -47,9 +47,9 @@
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya) -->
 
-📊 **This week I spent my time on**
+<!-- 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dinushchathurya&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dinushchathurya&hide_title=true&hide_border=true&langs_count=5) -->
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
 [<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/DinushChathurya)
