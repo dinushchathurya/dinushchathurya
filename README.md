@@ -94,6 +94,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
+
+</details>
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia" />
 
 </details>
