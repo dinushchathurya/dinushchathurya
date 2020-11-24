@@ -70,6 +70,15 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=radical" />
+
+</details>
+
+---
+
 ### Connect with me
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
