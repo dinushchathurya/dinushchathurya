@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
 ---
@@ -97,6 +97,7 @@
   <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
 
 </details>
+
 
 <details>
   <summary>:zap: Top Languages</summary>
