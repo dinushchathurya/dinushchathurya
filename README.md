@@ -117,10 +117,10 @@
 ### 📊 Github Stats
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-6">
   <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
   </div>
-   <div class="col" style="height:195px;">
+   <div class="col-md-6" style="height:195px;">
     <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
   </div>
 </div>
