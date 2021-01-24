@@ -96,21 +96,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
 
 ---
-### 📊 Github Stats
-
-<div class="row">
-  <div class="col">
-  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
-  </div>
-   <div class="col" style="height:195px;">
-    <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
-  </div>
-</div>
-
-<br>
-<br>
-
----
 
 ### Connect with me
 
@@ -126,6 +111,19 @@
 [<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
 
+---
+
+
+### 📊 Github Stats
+
+<div class="row">
+  <div class="col">
+  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
+  </div>
+   <div class="col" style="height:195px;">
+    <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
+  </div>
+</div>
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>
