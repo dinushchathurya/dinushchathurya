@@ -2,7 +2,7 @@
 
 ### I'm Social Media Influencer, Developer, Content Creator and Blogger!
 
-- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/)
+- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
