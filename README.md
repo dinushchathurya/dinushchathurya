@@ -1,4 +1,4 @@
-## Hi there 👋 I am Dinush Chathurya
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Dinush Chathurya
 
 ### I'm Social Media Influencer, Developer, Content Creator and Blogger!
 
@@ -131,9 +131,8 @@
 
 <details>
   <summary>📊 Github Stats</summary>
-  <div class="row" style="height:195px;">
-  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
-  <br>
+<br><br>
+  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
     <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
-  </div>
+
 </details>
