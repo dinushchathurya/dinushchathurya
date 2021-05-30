@@ -126,7 +126,7 @@
 
   <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
 
-</details>
+</details> -->
 
 
 <details>
@@ -134,5 +134,4 @@
 
   <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
 
-</details> -->
-
+</details>
