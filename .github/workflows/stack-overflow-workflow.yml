@@ -14,4 +14,4 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/9960450"
+          feed_list: "https://stackoverflow.com/users/9960450/dinush-chathurya"
