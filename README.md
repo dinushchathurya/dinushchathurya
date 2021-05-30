@@ -82,8 +82,8 @@
 
 ---
 ### 📺 Latest Tech Videos
-<!-- BLOG:START -->
-<!-- BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 <br><br>
 
