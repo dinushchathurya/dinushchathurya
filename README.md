@@ -112,14 +112,14 @@
 
 ---
 
-
+<!-- 
 ### 📊 Github Stats
 
 <div class="row" style="height:195px;">
   <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
     <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
  
-</div>
+</div> -->
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>
@@ -131,7 +131,9 @@
 
 <details>
   <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
-
+  <div class="row" style="height:195px;">
+  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" />
+    <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
+ 
+  </div>
 </details>
