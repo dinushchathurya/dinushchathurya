@@ -80,6 +80,12 @@
 
 ![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dinushchathurya&hide_title=true&hide_border=true&langs_count=5) -->
 
+<br><br>
+---
+### StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 --- 
 
 ### 📺 Latest YouTube Videos
