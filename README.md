@@ -1,4 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Dinush Chathurya
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTube+Content+Creator;and+Film+Maker!;)](https://git.io/typing-svg)
 
 ### I'm Social Media Influencer, Developer, Content Creator and Blogger!
 
@@ -128,6 +129,13 @@
 
 </details> -->
 
+<!-- markdownlint-disable MD033 -->
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=dinushchathurya)
+
+</details>
 
 <details>
   <summary>📊 Github Stats</summary>
@@ -136,3 +144,5 @@
     <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
 
 </details>
+
+<!-- markdownlint-enable MD033 -->
