@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Dinush Chathurya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTube+Content+Creator;and+Film+Maker!;)](https://git.io/typing-svg)
 
-### I'm Social Media Influencer, Developer, Content Creator and Blogger!
+<!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 
 - 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
 - 🌱 I’m currently learning everything 🤣
@@ -71,11 +71,6 @@
 <br/>
 
 <!-- <div style="text-align:center;">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=radical)
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya) -->
 
  <!-- 📊 **This week I spent my time on**
 
