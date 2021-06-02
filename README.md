@@ -140,8 +140,21 @@
 <details>
   <summary>📊 Github Stats</summary>
 <br><br>
-  <img align="left" alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
-    <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
+  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+</details>
+
+<details>
+  <summary>&#11088 Language Stats</summary>
+<br><br>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
+
+</details>
+
+<details>
+  <summary>&#127943 Stackoverflow Stats</summary>
+  <br><br>
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
 
 </details>
 
