@@ -161,6 +161,7 @@
 <details>
 <summary>🔥 Streak stats</summary>
 <br><br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinushchathurya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 </details>
