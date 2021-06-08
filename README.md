@@ -50,6 +50,8 @@
 ### Hosting
 
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Digital_Ocean-0080FF?&logo=DigitalOcean&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src=https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=whitet"></a> 
@@ -85,6 +87,7 @@
 ### Browsers
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Google_chrome-4285F4?&logo=Google-chrome&logoColor=white" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Firefox_Browser-FF7139?&logo=Firefox-Browser&logoColor=white" ></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" ></a>
 
 ---
