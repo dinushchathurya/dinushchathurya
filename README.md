@@ -75,6 +75,9 @@
 ### Version Controlling
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a>
 
 ---
 
@@ -92,10 +95,15 @@
 
 ---
 
+### Workspace
+
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/AMD-Radeon_R5-ED1C24?&logo=amd&logoColor=white" ></a>
+
+---
+
 ### Software and Other Tools
 
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
