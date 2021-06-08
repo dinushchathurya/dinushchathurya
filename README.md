@@ -110,6 +110,14 @@
 
 ---
 
+### Opensource
+
+<a href="https://packagist.org/packages/dinushchathurya/"><img alt="OBS Studio" src="https://img.shields.io/badge/Packagist-F28D1A?logo=packagist&logoColor=white"></a>
+<a href="https://www.npmjs.com/~dinush"><img alt="OBS Studio" src="https://img.shields.io/badge/Npm-181717?logo=npm&logoColor=white"></a>
+<a href="https://www.kaggle.com/dinushchathurya"><img alt="OBS Studio" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"></a>
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
