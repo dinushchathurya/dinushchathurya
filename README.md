@@ -149,6 +149,11 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
 
 ---
+
+<!-- BLOG:START -->
+
+<!-- BLOG:END -->
+
 <!-- markdownlint-disable MD033 -->
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
