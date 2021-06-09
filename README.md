@@ -151,7 +151,11 @@
 ---
 
 <!-- BLOG:START -->
-
+- [Laravel hasManyThrough Eloquent Relationship example](https://codingtricks.io/laravel-has-many-through-eloquent-relationship-example/)
+- [Laravel Many to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-many-to-many-polymorphic-relationship-example/)
+- [Laravel One to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-one-to-many-polymorphic-relationship-example/)
+- [Laravel Many to Many Eloquent relationship example](https://codingtricks.io/laravel-many-to-many-eloquent-relationship-example/)
+- [Ajax dependent University Faculty Degree dropdown](https://codingtricks.io/ajax-dependent-university-faculty-degree-dropdown/)
 <!-- BLOG:END -->
 
 <!-- markdownlint-disable MD033 -->
