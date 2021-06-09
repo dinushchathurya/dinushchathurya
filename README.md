@@ -118,6 +118,12 @@
 
 ---
 
+### Research 
+
+<a href="https://www.researchgate.net/publication/330912896_ARE_THE_SRI_LANKAN_CYBER_CRIME_LAWS_SUFFICIENT_TO_SAFEGUARD_TO_IT_PROFESSIONALS_AND_THE_VICTIMS_OF_THE_CYBER_ATTACKS"><img alt="Researchgate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&logo=ResearchGate&logoColor=white"></a>
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
