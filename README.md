@@ -146,19 +146,7 @@
 - [Welcome to Codingtricks](https://www.youtube.com/watch?v=CZlnHJqmVeM)
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me
-
-[<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://m.facebook.com/dinush.chathurya)
-[<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/DinushChathurya)
-[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/dinushchathurya)
-[<img src="https://img.icons8.com/fluent/25/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
-[<img src="https://img.icons8.com/fluent/25/000000/domain.png"/>](https://dinushchathurya.github.io)
-[<img src="https://img.icons8.com/color/25/000000/npm.png"/>](https://www.npmjs.com/~dinush)
-[<img src="https://img.icons8.com/ios-filled/25/000000/laravel.png"/>](https://packagist.org/users/dinushchathurya/packages/)
-[<img src="https://img.icons8.com/windows/25/000000/kaggle.png"/>](https://www.kaggle.com/dinushchathurya)
-[<img src="https://img.icons8.com/ios-glyphs/25/000000/fm-radio.png"/>](https://dinushchathurya.github.io/radio)
-[<img src="https://img.icons8.com/bubbles/25/000000/patreon.png"/>](https://www.patreon.com/dinushchathurya)
-[<img src="https://img.icons8.com/color/25/000000/rss.png"/>](https://codingtricks.io/)
+➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -198,3 +186,16 @@
 
 </details>
 <!-- markdownlint-enable MD033 -->
+
+---
+
+### Connect with me
+
+[<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/dinush.chathurya)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/DinushChathurya)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dinushchathurya)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
+[<img src="https://img.shields.io/badge/Website-4353FF?&logo=webflow&logoColor=white"/>](https://dinushchathurya.github.io)
+[<img src="https://img.shields.io/badge/Radio-E434AA?&logo=drooble&logoColor=white"/>](https://dinushchathurya.github.io/radio)
+[<img src="https://img.shields.io/badge/Patreon-FF424D?&logo=patreon&logoColor=white"/>](https://www.patreon.com/dinushchathurya)
+[<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)
