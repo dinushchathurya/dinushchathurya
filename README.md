@@ -153,7 +153,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [It looks like your feed URL has expired. Create a new one - It's Free!](https://www.mysitemapgenerator.com/rss/index.html)
+- [Laravel hasManyThrough Eloquent Relationship example](https://codingtricks.io/laravel-has-many-through-eloquent-relationship-example/)
+- [Laravel Many to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-many-to-many-polymorphic-relationship-example/)
+- [Laravel One to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-one-to-many-polymorphic-relationship-example/)
+- [Laravel Many to Many Eloquent relationship example](https://codingtricks.io/laravel-many-to-many-eloquent-relationship-example/)
+- [Ajax dependent University Faculty Degree dropdown](https://codingtricks.io/ajax-dependent-university-faculty-degree-dropdown/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
