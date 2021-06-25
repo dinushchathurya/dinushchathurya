@@ -142,6 +142,8 @@
 ### 📺 Codingtricks YouTube Videos 
 
 <!-- BLOG-POST-LIST:START -->
+- [jenkins](https://www.youtube.com/watch?v=syq0_zEiqOM)
+- [How to setup Laravel application on Digital Ocean](https://www.youtube.com/watch?v=f5RO4ZWhbQ4)
 - [Deploy Laravel application on AWS EC2 instance](https://www.youtube.com/watch?v=lhrnjINQgsc)
 - [Welcome to Codingtricks](https://www.youtube.com/watch?v=CZlnHJqmVeM)
 <!-- BLOG-POST-LIST:END -->
