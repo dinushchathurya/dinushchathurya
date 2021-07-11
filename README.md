@@ -155,11 +155,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Laravel change password with current password validation](https://codingtricks.io/laravel-change-password-with-current-password-validation/)
-- [Laravel hasManyThrough Eloquent Relationship example](https://codingtricks.io/laravel-has-many-through-eloquent-relationship-example/)
-- [Laravel Many to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-many-to-many-polymorphic-relationship-example/)
-- [Laravel One to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-one-to-many-polymorphic-relationship-example/)
-- [Laravel Many to Many Eloquent relationship example](https://codingtricks.io/laravel-many-to-many-eloquent-relationship-example/)
+- [It looks like your feed URL has expired. Create a new one - It's Free!](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
