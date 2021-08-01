@@ -155,7 +155,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Thu Jul 29, 2021](https://www.mysitemapgenerator.com/rss/index.html)
+- [Laravel change password with current password validation](https://codingtricks.io/laravel-change-password-with-current-password-validation/)
+- [Laravel hasManyThrough Eloquent Relationship example](https://codingtricks.io/laravel-has-many-through-eloquent-relationship-example/)
+- [Laravel Many to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-many-to-many-polymorphic-relationship-example/)
+- [Laravel One to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-one-to-many-polymorphic-relationship-example/)
+- [Laravel Many to Many Eloquent relationship example](https://codingtricks.io/laravel-many-to-many-eloquent-relationship-example/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
