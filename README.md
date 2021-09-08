@@ -155,7 +155,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Thu Sep 2, 2021](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to Get Location Information with IP Address in Laravel](https://codingtricks.io/how-to-get-location-information-with-ip-address-in-laravel/)
+- [Laravel change password with current password validation](https://codingtricks.io/laravel-change-password-with-current-password-validation/)
+- [Laravel hasManyThrough Eloquent Relationship example](https://codingtricks.io/laravel-has-many-through-eloquent-relationship-example/)
+- [Laravel Many to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-many-to-many-polymorphic-relationship-example/)
+- [Laravel One to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-one-to-many-polymorphic-relationship-example/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
