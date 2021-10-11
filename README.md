@@ -156,11 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to Get Location Information with IP Address in Laravel](https://codingtricks.io/how-to-get-location-information-with-ip-address-in-laravel/)
-- [Laravel change password with current password validation](https://codingtricks.io/laravel-change-password-with-current-password-validation/)
-- [Drag and drop file upload in Laravel using Dropzone.js](https://codingtricks.io/drag-and-drop-file-upload-in-laravel-using-dropzonejs/)
-- [Laravel Many to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-many-to-many-polymorphic-relationship-example/)
-- [Laravel One to Many Polymorphic Relationship Example](https://codingtricks.io/laravel-one-to-many-polymorphic-relationship-example/)
+- [Your trial feed URL has expired on Sun Oct 10, 2021](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
