@@ -142,6 +142,7 @@
 ### 📺 Codingtricks YouTube Videos 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install WordPress on Ubuntu AWS and Apache 2](https://www.youtube.com/watch?v=h-mHEsJgOpM)
 - [How to setup Jenkins on AWS](https://www.youtube.com/watch?v=syq0_zEiqOM)
 - [How to deploy your Laravel application on Digital Ocean](https://www.youtube.com/watch?v=f5RO4ZWhbQ4)
 - [Deploy Laravel application on AWS EC2 instance](https://www.youtube.com/watch?v=lhrnjINQgsc)
@@ -155,7 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Wed Sep 22, 2021](https://www.mysitemapgenerator.com/rss/index.html)
+- [Your trial feed URL has expired on Sun Oct 10, 2021](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
