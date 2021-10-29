@@ -142,11 +142,11 @@
 ### 📺 Codingtricks YouTube Videos 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to SSH to your AWS EC2 instance using PuTTY](https://www.youtube.com/watch?v=jlaxDXOCHJY)
 - [How to Install WordPress on Ubuntu AWS and Apache 2](https://www.youtube.com/watch?v=h-mHEsJgOpM)
 - [How to setup Jenkins on AWS](https://www.youtube.com/watch?v=syq0_zEiqOM)
 - [How to deploy Laravel application on Digital Ocean](https://www.youtube.com/watch?v=f5RO4ZWhbQ4)
 - [Deploy Laravel application on AWS EC2 instance](https://www.youtube.com/watch?v=lhrnjINQgsc)
-- [Welcome to Codingtricks](https://www.youtube.com/watch?v=CZlnHJqmVeM)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
