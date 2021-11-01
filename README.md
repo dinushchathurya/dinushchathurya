@@ -156,7 +156,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Sun Oct 31, 2021](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to connect to AWS EC2 instance using PuTTY](https://codingtricks.io/how-to-connect-to-aws-ec2-instance-using-putty/)
+- [Tag: Artificial Intelligence | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/Artificial-Intelligence/)
+- [How to Get Location Information with IP Address in Laravel](https://codingtricks.io/how-to-get-location-information-with-ip-address-in-laravel/)
+- [Laravel change password with current password validation](https://codingtricks.io/laravel-change-password-with-current-password-validation/)
+- [Drag and drop file upload in Laravel using Dropzone.js](https://codingtricks.io/drag-and-drop-file-upload-in-laravel-using-dropzonejs/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
