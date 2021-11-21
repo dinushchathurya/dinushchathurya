@@ -156,7 +156,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Mon Nov 15, 2021](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to Get Location Information with IP Address in Laravel](https://codingtricks.io/how-to-get-location-information-with-ip-address-in-laravel/)
+- [Drag and drop file upload in Laravel using Dropzone.js](https://codingtricks.io/drag-and-drop-file-upload-in-laravel-using-dropzonejs/)
+- [How to connect to AWS EC2 instance using PuTTY](https://codingtricks.io/how-to-connect-to-aws-ec2-instance-using-putty/)
+- [Laravel autocomplete search-using Typeahead JS](https://codingtricks.io/laravel-autocomplete-search-using-typeaheadjs/)
+- [How to assign an Elastic IP to EC2 instance](https://codingtricks.io/how-to-assign-an-elastic-ip-to-ec2-instance/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
