@@ -156,7 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Sun Oct 31, 2021](https://www.mysitemapgenerator.com/rss/index.html)
+- [Your trial feed URL has expired on Mon Nov 15, 2021](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
