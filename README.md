@@ -156,7 +156,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Tue Jan 4, 2022](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to auto stop and auto start AWS EC2 instances using AWS Lambda](https://codingtricks.io/how-to-auto-stop-and-auto-start-aws-ec2-instances-using-aws-lambda/)
+- [How to connect to AWS EC2 instance using PuTTY](https://codingtricks.io/how-to-connect-to-aws-ec2-instance-using-putty/)
+- [How to use GitLab CICD with GitHub Repository](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
+- [How to assign an Elastic IP to EC2 instance](https://codingtricks.io/how-to-assign-an-elastic-ip-to-ec2-instance/)
+- [Create an EC2 Instance in AWS](https://codingtricks.io/how-to-create-an-ec2-instance-in-aws/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
