@@ -1,12 +1,12 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Dinush Chathurya
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTube+Content+Creator;and+Film+Maker!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTube+Content+Creator;and+Film+Maker!;)](https://git.io/typing-svg)
 
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 
 - 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
 ---
