@@ -143,10 +143,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Create Elastic IP in AWS and assign to EC2 instance](https://www.youtube.com/watch?v=PpyqSEuGqiY)
+- [How to Automatically Stop/Start EC2 instances using AWS Lambda, Cloud Watch Events Scheduler](https://www.youtube.com/watch?v=QrkuOeD_VZA)
 - [How to install Terraform on Windows](https://www.youtube.com/watch?v=KHv-j4ssmJQ)
 - [How to SSH to your AWS EC2 instance using PuTTY](https://www.youtube.com/watch?v=jlaxDXOCHJY)
 - [How to Install WordPress on Ubuntu AWS and Apache 2](https://www.youtube.com/watch?v=h-mHEsJgOpM)
-- [How to setup Jenkins on AWS](https://www.youtube.com/watch?v=syq0_zEiqOM)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
