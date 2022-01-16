@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Dinush Chathurya
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTube+Content+Creator;and+Film+Maker!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTubeber;and+Film+Maker!;)](https://git.io/typing-svg)
 
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 
@@ -143,10 +143,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Create Elastic IP in AWS and assign to EC2 instance](https://www.youtube.com/watch?v=PpyqSEuGqiY)
-- [How to Automatically Stop/Start EC2 instances using AWS Lambda, Cloud Watch Events Scheduler](https://www.youtube.com/watch?v=QrkuOeD_VZA)
 - [How to install Terraform on Windows](https://www.youtube.com/watch?v=KHv-j4ssmJQ)
 - [How to SSH to your AWS EC2 instance using PuTTY](https://www.youtube.com/watch?v=jlaxDXOCHJY)
 - [How to Install WordPress on Ubuntu AWS and Apache 2](https://www.youtube.com/watch?v=h-mHEsJgOpM)
+- [How to setup Jenkins on AWS](https://www.youtube.com/watch?v=syq0_zEiqOM)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
@@ -156,11 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to auto stop and auto start AWS EC2 instances using AWS Lambda](https://codingtricks.io/how-to-auto-stop-and-auto-start-aws-ec2-instances-using-aws-lambda/)
-- [How to connect to AWS EC2 instance using PuTTY](https://codingtricks.io/how-to-connect-to-aws-ec2-instance-using-putty/)
-- [How to use GitLab CICD with GitHub Repository](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
-- [How to assign an Elastic IP to EC2 instance](https://codingtricks.io/how-to-assign-an-elastic-ip-to-ec2-instance/)
-- [Create an EC2 Instance in AWS](https://codingtricks.io/how-to-create-an-ec2-instance-in-aws/)
+- [Your trial feed URL has expired on Tue Jan 4, 2022](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
