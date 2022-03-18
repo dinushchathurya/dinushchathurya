@@ -156,11 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Laravel Factories, Seeder](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
-- [Tag: Artificial Intelligence | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/Artificial-Intelligence/)
-- [How to auto stop and auto start AWS EC2 instances using AWS Lambda](https://codingtricks.io/how-to-auto-stop-and-auto-start-aws-ec2-instances-using-aws-lambda/)
-- [How to setup Nginx as a reverse proxy for Apache on Ubuntu](https://codingtricks.io/how-to-setup-nginx-as-a-reverse-proxy-for-apache-on-ubuntu/)
-- [How to use GitLab CICD with GitHub Repository](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
+- [Your trial feed URL has expired on Fri Mar 18, 2022](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
