@@ -8,9 +8,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
-<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
----
 
+---
+<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
+
+---
 ### Languages 
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
