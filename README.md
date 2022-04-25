@@ -144,11 +144,11 @@
 ### 📺 Codingtricks YouTube Videos 
 
 <!-- BLOG-POST-LIST:START -->
+- [Install SonarQube on Ubuntu](https://www.youtube.com/watch?v=iu6YCHA8iZ8)
+- [Install WordPress on AWS Lightsail](https://www.youtube.com/watch?v=H2z02sHiobs)
+- [How to Set Up an Nginx Reverse Proxy for Apache](https://www.youtube.com/watch?v=vuH1HQTrtWQ)
 - [How to Create Elastic IP in AWS and assign to EC2 instance](https://www.youtube.com/watch?v=PpyqSEuGqiY)
 - [How to Automatically Stop/Start EC2 instances using AWS Lambda, Cloud Watch Events Scheduler](https://www.youtube.com/watch?v=QrkuOeD_VZA)
-- [How to install Terraform on Windows](https://www.youtube.com/watch?v=KHv-j4ssmJQ)
-- [How to SSH to your AWS EC2 instance using PuTTY](https://www.youtube.com/watch?v=jlaxDXOCHJY)
-- [How to Install WordPress on Ubuntu AWS and Apache 2](https://www.youtube.com/watch?v=h-mHEsJgOpM)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
@@ -159,10 +159,10 @@
 
 <!-- BLOG:START -->
 - [How to auto stop and auto start AWS EC2 instances using AWS Lambda](https://codingtricks.io/how-to-auto-stop-and-auto-start-aws-ec2-instances-using-aws-lambda/)
-- [How to connect to AWS EC2 instance using PuTTY](https://codingtricks.io/how-to-connect-to-aws-ec2-instance-using-putty/)
+- [How to setup Nginx as a reverse proxy for Apache on Ubuntu](https://codingtricks.io/how-to-setup-nginx-as-a-reverse-proxy-for-apache-on-ubuntu/)
+- [Laravel Factories, Seeder](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
 - [How to use GitLab CICD with GitHub Repository](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
 - [How to assign an Elastic IP to EC2 instance](https://codingtricks.io/how-to-assign-an-elastic-ip-to-ec2-instance/)
-- [Create an EC2 Instance in AWS](https://codingtricks.io/how-to-create-an-ec2-instance-in-aws/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
