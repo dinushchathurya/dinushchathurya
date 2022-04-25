@@ -3,14 +3,12 @@
 
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 
-<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/main/cat.png" width="300" height="300" />
-
 - 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
-
+<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
 ---
 
 ### Languages 
