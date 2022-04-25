@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Dinush Chathurya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
 
-<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="100" height="100" />
+<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="150" height="150" />
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 
 - 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
