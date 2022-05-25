@@ -155,11 +155,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to auto stop and auto start AWS EC2 instances using AWS Lambda](https://codingtricks.io/how-to-auto-stop-and-auto-start-aws-ec2-instances-using-aws-lambda/)
-- [How to setup Nginx as a reverse proxy for Apache on Ubuntu](https://codingtricks.io/how-to-setup-nginx-as-a-reverse-proxy-for-apache-on-ubuntu/)
-- [Laravel Factories, Seeder](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
-- [Deploy static website to Azure Web App using Github action](https://codingtricks.io/deploy-static-website-to-azure-using-github-action/)
-- [How to use GitLab CICD with GitHub Repository](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
+- [Your trial feed URL has expired on Tue May 24, 2022](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
