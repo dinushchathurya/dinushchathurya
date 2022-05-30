@@ -141,11 +141,11 @@
 ### 📺 Codingtricks YouTube Videos 
 
 <!-- BLOG-POST-LIST:START -->
+- [Publish Docker Image to AWS ECR using Jenkins](https://www.youtube.com/watch?v=tQaruk4z2to)
 - [Install SonarQube on Ubuntu](https://www.youtube.com/watch?v=iu6YCHA8iZ8)
 - [Install WordPress on AWS Lightsail](https://www.youtube.com/watch?v=H2z02sHiobs)
 - [How to Set Up an Nginx Reverse Proxy for Apache](https://www.youtube.com/watch?v=vuH1HQTrtWQ)
 - [How to Create Elastic IP in AWS and assign to EC2 instance](https://www.youtube.com/watch?v=PpyqSEuGqiY)
-- [How to Automatically Stop/Start EC2 instances using AWS Lambda, Cloud Watch Events Scheduler](https://www.youtube.com/watch?v=QrkuOeD_VZA)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCCZT71rHQ175Du-1tEviVBA)
