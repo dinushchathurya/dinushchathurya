@@ -155,7 +155,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired on Wed Jun 8, 2022](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to setup Nginx as a reverse proxy for Apache on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-setup-nginx-as-a-reverse-proxy-for-apache-on-ubuntu/)
+- [Laravel Factories, Seeder | Codingtricks-Technology for Innovators](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
+- [Deploy static website to Azure Web App using Github action | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-static-website-to-azure-using-github-action/)
+- [How to use GitLab CICD with GitHub Repository | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
+- [How to install Jenkins on Ubuntu-20-04 | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-jenkins-on-ubuntu-20-04/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
