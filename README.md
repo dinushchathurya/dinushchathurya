@@ -156,11 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to setup Nginx as a reverse proxy for Apache on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-setup-nginx-as-a-reverse-proxy-for-apache-on-ubuntu/)
-- [Laravel Factories, Seeder | Codingtricks-Technology for Innovators](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
-- [Deploy static website to Azure Web App using Github action | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-static-website-to-azure-using-github-action/)
-- [Getting Started with Laravel in CodeLobster IDE | Codingtricks-Technology for Innovators](https://codingtricks.io/getting-started-with-laravel-in-codelobster-ide/)
-- [How to use GitLab CICD with GitHub Repository | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-use-gitlab-cicd-with-github-repository/)
+- [Your trial feed URL has expired  on Mon Jul 11, 2022](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
