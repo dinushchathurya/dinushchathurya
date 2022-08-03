@@ -156,11 +156,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to setup Nginx as a reverse proxy for Apache on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-setup-nginx-as-a-reverse-proxy-for-apache-on-ubuntu/)
+- [Tag: Artificial Intelligence | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/Artificial-Intelligence/)
+- [Some Useful Laravel Packages | Codingtricks-Technology for Innovators](https://codingtricks.io/some-useful-laravel-packages/)
+- [Run Ansible Playbook from Jenkins by Executing Shell Command | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins-by-executing-shell-command/)
 - [Laravel Factories, Seeder | Codingtricks-Technology for Innovators](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
 - [Deploy static website to Azure Web App using Github action | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-static-website-to-azure-using-github-action/)
-- [Getting Started with Laravel in CodeLobster IDE | Codingtricks-Technology for Innovators](https://codingtricks.io/getting-started-with-laravel-in-codelobster-ide/)
-- [Run Ansible Playbook from Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
