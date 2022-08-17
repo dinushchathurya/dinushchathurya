@@ -156,11 +156,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Tag: Artificial Intelligence | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/Artificial-Intelligence/)
-- [Some Useful Laravel Packages | Codingtricks-Technology for Innovators](https://codingtricks.io/some-useful-laravel-packages/)
-- [Run Ansible Playbook from Jenkins by Executing Shell Command | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins-by-executing-shell-command/)
-- [Laravel Factories, Seeder | Codingtricks-Technology for Innovators](https://codingtricks.io/generate-dummy-laravel-data-with-model-factories-seeder/)
-- [Deploy static website to Azure Web App using Github action | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-static-website-to-azure-using-github-action/)
+- [Your trial feed URL has expired  on Wed Aug 17, 2022](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
