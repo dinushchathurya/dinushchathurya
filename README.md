@@ -156,7 +156,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Sat Sep 17, 2022](https://www.mysitemapgenerator.com/rss/index.html)
+- [Run Ansible Playbook from Jenkins by Executing Shell Command | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins-by-executing-shell-command/)
+- [Deploy static website to Azure Web App using Github action | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-static-website-to-azure-using-github-action/)
+- [Getting Started with Laravel in CodeLobster IDE | Codingtricks-Technology for Innovators](https://codingtricks.io/getting-started-with-laravel-in-codelobster-ide/)
+- [Deploy Jenkins Agents using EC2 Fleet plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-jenkins-agents-using-ec2-fleet-plugin/)
+- [Run Ansible Playbook from Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
