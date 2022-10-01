@@ -5,7 +5,7 @@
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
 
-- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
+- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/), [Explore Srilanka](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ), [Script Book](https://github.com/dinushchathurya/script-book)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
