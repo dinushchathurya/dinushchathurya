@@ -11,6 +11,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
+<!-- start quote -->
+
+<!-- end quote -->
+
 ### Languages 
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
@@ -217,6 +221,3 @@
 [<img src="https://img.shields.io/badge/Patreon-FF424D?&logo=patreon&logoColor=white"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)
 
-
-<!-- start quote -->  
-<!--- end quote -->
