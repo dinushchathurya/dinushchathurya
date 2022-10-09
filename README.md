@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to read & hiking
 
 <!-- start quote -->
-
+💬 Quote of the Day: "ඔබ  නිවැරදි තීරණ ගන්නේ ඔබ තනිවුන විටදීය"
 <!-- end quote -->
 
 ### Languages 
