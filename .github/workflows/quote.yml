@@ -3,7 +3,7 @@ name: Update README with Sinhala Quote
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 * * * *" # triggers every midnight
+  - cron: "0 0 * * *" # triggers every midnight
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
       run: npm install
 
     - name: Sinhala Quote Of The Day
-      uses: dinushchathurya/sinhala-quotes-github-action@1.0.0
+      uses: dinushchathurya/sinhala-quotes-github-action@1.0.1
     
     - name: Commit and push update
       run: |-
