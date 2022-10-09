@@ -218,4 +218,5 @@
 [<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)
 
 
-<!-- start quote -->  <!--- end quote -->
+<!-- start quote -->  
+<!--- end quote -->
