@@ -11,6 +11,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
+<!-- start quote -->
+💬 Quote of the Day: "කාලය ඉක්ම ගිය පසු කම්පාවී පලක් නැත"
+<!-- end quote -->
+
 ### Languages 
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
@@ -161,6 +165,11 @@
 - [Deploy Jenkins Agents using EC2 Fleet plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-jenkins-agents-using-ec2-fleet-plugin/)
 - [Run Ansible Playbook from Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins/)
 - [How to Configure Git Username and Email Address | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-git-username-and-email/)
+- [How to integrate SonarQube with Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-integrate-sonarqube-with-jenkins/)
+- [How to configure Jenkins master and slave | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-jenkins-master-slave/)
+- [How to install SonarQube on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-sonarqube-on-ubuntu/)
+- [Your current user or role does not have access to Kubernetes objects on this EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/eks-kubernetes-object-access-error/)
+- [How to install Ansible on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ansible-on-ubuntu/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
