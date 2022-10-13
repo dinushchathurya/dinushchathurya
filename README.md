@@ -11,10 +11,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
-<!-- start quote -->
-💬 Quote of the Day: "ඔබ  නිවැරදි තීරණ ගන්නේ ඔබ තනිවුන විටදීය"
-<!-- end quote -->
-
 ### Languages 
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
@@ -65,7 +61,7 @@
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a>
-
+<a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/circleci-181717?&logo=circleci&logoColor=009639"></a>
 ---
 
 ### IDES
@@ -220,4 +216,3 @@
 [<img src="https://img.shields.io/badge/Radio-E434AA?&logo=drooble&logoColor=white"/>](https://dinushchathurya.github.io/radio)
 [<img src="https://img.shields.io/badge/Patreon-FF424D?&logo=patreon&logoColor=white"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)
-
