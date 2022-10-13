@@ -23,8 +23,8 @@
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" ></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-<!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" ></a>
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" ></a> -->
+<!--<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a> -->
 
 ---
@@ -38,8 +38,8 @@
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
-<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> -->
-<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
 ---
 
@@ -48,7 +48,7 @@
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a>
-
+<a href="#"><img alt="SQL" src="https://img.shields.io/badge/DynamoDB%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a>
 ---
 
 ### Hosting
