@@ -163,14 +163,14 @@
 
 <!-- BLOG:START -->
 - [Run Ansible Playbook from Jenkins by Executing Shell Command | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins-by-executing-shell-command/)
-- [Getting Started with Laravel in CodeLobster IDE | Codingtricks-Technology for Innovators](https://codingtricks.io/getting-started-with-laravel-in-codelobster-ide/)
+- [How to hide a particular user from Ubuntu login screen | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-hide-a-particular-user-from-ubuntu-login-screen/)
 - [Deploy Jenkins Agents using EC2 Fleet plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-jenkins-agents-using-ec2-fleet-plugin/)
 - [Run Ansible Playbook from Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins/)
 - [How to Configure Git Username and Email Address | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-git-username-and-email/)
 - [How to integrate SonarQube with Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-integrate-sonarqube-with-jenkins/)
 - [How to configure Jenkins master and slave | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-jenkins-master-slave/)
-- [How to install SonarQube on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-sonarqube-on-ubuntu/)
 - [Your current user or role does not have access to Kubernetes objects on this EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/eks-kubernetes-object-access-error/)
+- [How to install SonarQube on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-sonarqube-on-ubuntu/)
 - [How to install Ansible on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ansible-on-ubuntu/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
