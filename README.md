@@ -47,8 +47,9 @@
 
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-<!--<a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a> -->
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/DynamoDB%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a>
+<!-- <a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a> -->
+
 ---
 
 ### Hosting
