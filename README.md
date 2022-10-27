@@ -47,7 +47,7 @@
 
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a>
+<!--<a href="#"><img alt="FIREBASE" src="https://img.shields.io/badge/Firebase-007ACC?&logo=firebase" ></a> -->
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/DynamoDB%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a>
 ---
 
@@ -65,7 +65,7 @@
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a>
-<a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-181717?&logo=circleci&logoColor=009639"></a>
+<!--<a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-181717?&logo=circleci&logoColor=009639"></a> -->
 <a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/Helm-181717?&logo=Helm&logoColor=0080FF"></a>
 <a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/Kubernetes-181717?&logo=kubernetes&logoColor=0080FF"></a>
 ---
