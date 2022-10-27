@@ -66,7 +66,7 @@
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a>
-<!--<a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-181717?&logo=circleci&logoColor=009639"></a> -->
+<!-- <a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-181717?&logo=circleci&logoColor=009639"></a> -->
 <a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/Helm-181717?&logo=Helm&logoColor=0080FF"></a>
 <a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/Kubernetes-181717?&logo=kubernetes&logoColor=0080FF"></a>
 ---
