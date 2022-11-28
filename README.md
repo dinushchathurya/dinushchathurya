@@ -163,7 +163,16 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Sun Nov 27, 2022](https://www.mysitemapgenerator.com/rss/index.html)
+- [Run Ansible Playbook from Jenkins by Executing Shell Command | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-run-ansible-playbook-from-jenkins-by-executing-shell-command/)
+- [How to install AWS LoadBalancer Controller on EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-aws-loadbalancer-controller-eks-cluster/)
+- [How to hide a particular user from Ubuntu login screen | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-hide-a-particular-user-from-ubuntu-login-screen/)
+- [Deploy Jenkins Agents using EC2 Fleet plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-jenkins-agents-using-ec2-fleet-plugin/)
+- [How to install Nexus repository on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-nexus-repository-on-ubuntu/)
+- [How to integrate SonarQube with Jenkins | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-integrate-sonarqube-with-jenkins/)
+- [How to Configure Git Username and Email Address | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-git-username-and-email/)
+- [How to configure Jenkins master and slave | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-jenkins-master-slave/)
+- [Your current user or role does not have access to Kubernetes objects on this EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/eks-kubernetes-object-access-error/)
+- [How to install SonarQube on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-sonarqube-on-ubuntu/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
