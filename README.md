@@ -18,7 +18,7 @@
 ### Languages 
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="width:10px; height:10px"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" ></a>
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" ></a>
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
