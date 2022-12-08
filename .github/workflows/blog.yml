@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/2811499384"
-          max_post_count: 10
+          max_post_count: 5
