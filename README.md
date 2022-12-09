@@ -33,7 +33,7 @@
 ### Video Content
 
 <details>
-  <summary>📺 Latest YouTube Videos</summary>
+  <summary>📺 Travel</summary>
 
 <!-- YOUTUBE:START -->
 - [Rising Srilanka](https://www.youtube.com/watch?v=9E92mYNIepA)
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary>📺 Codingtricks YouTube Videos </summary>
+  <summary>📺 Programming </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Publish Docker Image to AWS ECR using Jenkins](https://www.youtube.com/watch?v=tQaruk4z2to)
@@ -65,39 +65,31 @@
 
 <!-- markdownlint-disable MD033 -->
 <details>
-    <summary>&#127942 GitHub Awards</summary><br/>
+    <summary>&#127942 GitHub Awards</summary><br>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=dinushchathurya)
-
 </details>
 
 <details>
-  <summary>📊 Github Stats</summary>
-<br><br>
+  <summary>📊 Github Stats</summary><br>
   <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 </details>
 
 <details>
-  <summary>&#11088 Language Stats</summary>
-<br><br>
+  <summary>&#11088 Language Stats</summary><br>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya&theme=algolia&langs_count=15&layout=compact" />
-
 </details>
 
 <details>
-  <summary>&#127943 Stackoverflow Stats</summary>
-  <br><br>
+  <summary>&#127943 Stackoverflow Stats</summary><br>
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
-
 </details>
 
 <details>
-<summary>🔥 Streak stats</summary>
-<br><br>
+  <summary>🔥 Streak stats</summary><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinushchathurya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinushchathurya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 </details>
 <!-- markdownlint-enable MD033 -->
 
