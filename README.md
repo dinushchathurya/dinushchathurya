@@ -61,6 +61,35 @@
 
 </details>
 
+---
+### Open Source Projects
+
+<details>
+  <summary>NPM </summary>
+    <li><a href="https://www.npmjs.com/package/srilankan-provinces-districts">Srilankan Provinces Districts</a></li>
+    <li><a href="https://www.npmjs.com/package/@dinush/srilankan-universities-faculties-degrees">Srilankan Universities Faculties Degrees</a></li>
+    <li><a href="https://www.npmjs.com/package/@dinush/srilankan-phone-number-validator">Srilankan Phone number validator</a></li>
+</details>
+
+<details>
+  <summary>Laravel </summary>
+    <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-mobile-number-validator">Sri Lankan Phone number validator (Land & Mobile)</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-universities">Sri Lankan Universities</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/uk-mobile-number-validator">UK mobile number validator</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-state-hospitals">Sri Lankan state hospitals</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-local-authorities">Sri Lankan local authorities</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-gn-divisions">Sri Lankan GN divisions</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-divisional-secretariats">Sri Lankan divisional secretariatsr</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/nationality-list">Nationality list</a></li>
+</details>
+
+<details>
+  <summary>GitHub Actions </summary>
+  <li><a href="https://github.com/marketplace/actions/docker-login-build-tag-push-action">Docker Login, Build, Tag & Push Action</a></li>
+  <li><a href="https://github.com/marketplace/actions/sinhala-quote-of-the-day">Sinhala Quote Of The Day</a></li>
+</details>
+
+---
 ### Online Presence
 
 <!-- markdownlint-disable MD033 -->
