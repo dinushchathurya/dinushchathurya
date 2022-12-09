@@ -1,10 +1,6 @@
 ## Hi there, I am Dinush Chathurya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
 
-<!-- <img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" /> -->
-<!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
-
 - 🔭 I’m currently working on [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -15,7 +11,6 @@
 💬 Quote of the Day: "අහස කොච්චර පාලු වුනත් හඳ තනියෙන් හරි බැබලුනා.."
 <!-- end quote -->
 
----
 ---
 
 ### 📚 Latest Blog Posts
