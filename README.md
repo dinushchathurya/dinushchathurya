@@ -31,7 +31,6 @@
 
 ---
 
----
 ### Open Source Projects
 
 <details>
