@@ -155,7 +155,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="width:40px; height:40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="width:40px; height:40px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width:40px; height:40px" />                                                                                                                                                                                                                                           </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width:40px; height:40px" />                                                                                                                     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px"/>
+                                                                                                                               </p>
 
 ---
 
