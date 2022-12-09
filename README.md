@@ -123,15 +123,10 @@
 
 ### Languages and Tools:
 
-<<<<<<< HEAD
 <code>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="width:30px; height:30px"/>  </code>     
 <code>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="width:30px; height:30px"/>   </code>  
-=======
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="width:30px; height:30px"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="width:30px; height:30px"/>  
->>>>>>> 9a34af6cc28ca126eae2c21259bde362fd033a76
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"  style="width:30px; height:30px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width:30px; height:30px"/>              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" style="width:30px; height:30px"/>  
