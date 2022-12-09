@@ -119,14 +119,13 @@
 </details>
 <!-- markdownlint-enable MD033 -->
 
-<!-- ---
+
 
 ### Languages and Tools:
 
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="width:30px; height:30px"/>  </code>     
-<code>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="width:30px; height:30px"/>   </code>  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="width:30px; height:30px"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="width:30px; height:30px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"  style="width:30px; height:30px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width:30px; height:30px"/>              
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" style="width:30px; height:30px"/>  
@@ -150,7 +149,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="width:30px; height:30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="width:30px; height:30px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" style="width:30px; height:30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width:30px; height:30px" />                                                                                                                                                                                                                                           -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width:30px; height:30px" />                                                                                                                                                                                                                                           </p>
 ---
 
 ### Connect with me
