@@ -16,7 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Mon Dec 12, 2022](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to install AWS LoadBalancer Controller on EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-aws-loadbalancer-controller-eks-cluster/)
+- [How to hide a particular user from Ubuntu login screen | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-hide-a-particular-user-from-ubuntu-login-screen/)
+- [Deploy Jenkins Agents using EC2 Fleet plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-jenkins-agents-using-ec2-fleet-plugin/)
+- [How to install Nexus repository on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-nexus-repository-on-ubuntu/)
+- [How to Configure Git Username and Email Address | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-git-username-and-email/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
