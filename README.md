@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
 <!-- start quote -->
