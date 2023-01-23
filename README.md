@@ -16,11 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to install AWS LoadBalancer Controller on EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-aws-loadbalancer-controller-eks-cluster/)
+- [Setup Cloudwatch Container insights for EKS Cluster using Fluentd | Codingtricks-Technology for Innovators](https://codingtricks.io/setup-cloudwatch-container-insights-for-eks-cluster/)
+- [Tag: AWS Load Balancer Controller | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/AWS-Load-Balancer-Controller/)
 - [How to hide a particular user from Ubuntu login screen | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-hide-a-particular-user-from-ubuntu-login-screen/)
-- [Deploy Jenkins Agents using EC2 Fleet plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/deploy-jenkins-agents-using-ec2-fleet-plugin/)
+- [How to install AWS LoadBalancer Controller on EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-aws-loadbalancer-controller-eks-cluster/)
 - [How to install Nexus repository on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-nexus-repository-on-ubuntu/)
-- [How to Configure Git Username and Email Address | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-configure-git-username-and-email/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
