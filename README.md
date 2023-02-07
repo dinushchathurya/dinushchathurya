@@ -16,7 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Mon Feb 6, 2023](https://www.mysitemapgenerator.com/rss/index.html)
+- [Setup Cloudwatch Container insights for EKS Cluster using Fluentd | Codingtricks-Technology for Innovators](https://codingtricks.io/setup-cloudwatch-container-insights-for-eks-cluster/)
+- [Tag: AWS Load Balancer Controller | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/AWS-Load-Balancer-Controller/)
+- [How to hide a particular user from Ubuntu login screen | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-hide-a-particular-user-from-ubuntu-login-screen/)
+- [How to install AWS LoadBalancer Controller on EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-aws-loadbalancer-controller-eks-cluster/)
+- [How to install Nexus repository on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-nexus-repository-on-ubuntu/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
