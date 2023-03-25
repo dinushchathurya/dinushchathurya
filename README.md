@@ -40,6 +40,7 @@
     <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-mobile-number-validator">Sri Lankan Phone number validator (Land & Mobile)</a></li>
     <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-universities">Sri Lankan Universities</a></li>
     <li><a href="https://packagist.org/packages/dinushchathurya/uk-mobile-number-validator">UK mobile number validator</a></li>
+    <li><a href="https://packagist.org/packages/dinushchathurya/uk-post-code">UK post code validator</a>
     <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-state-hospitals">Sri Lankan state hospitals</a></li>
     <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-local-authorities">Sri Lankan local authorities</a></li>
     <li><a href="https://packagist.org/packages/dinushchathurya/srilankan-gn-divisions">Sri Lankan GN divisions</a></li>
