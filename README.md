@@ -16,11 +16,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to install AWS LoadBalancer Controller on EKS cluster | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-aws-loadbalancer-controller-eks-cluster/)
-- [Setup Cloudwatch Container insights for EKS Cluster using Fluentd | Codingtricks-Technology for Innovators](https://codingtricks.io/setup-cloudwatch-container-insights-for-eks-cluster/)
-- [Install Ngix Ingress Controller in EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ngix-ingress-controller-in-eks/)
-- [How to get a free SSL Certificate from AWS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-get-a-free-ssl-certificate-from-aws/)
-- [How to install Nexus repository on Ubuntu | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-nexus-repository-on-ubuntu/)
+- [Your trial feed URL has expired  on Mon May 29, 2023](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
