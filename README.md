@@ -16,11 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Add authentication to Tekton dashboard | Codingtricks-Technology for Innovators](https://codingtricks.io/add-authentication-to-tekton-dashboard/)
-- [Tag: AWS Load Balancer Controller | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/AWS-Load-Balancer-Controller/)
 - [Setup Cloudwatch Container insights for EKS Cluster using Fluentd | Codingtricks-Technology for Innovators](https://codingtricks.io/setup-cloudwatch-container-insights-for-eks-cluster/)
+- [How to clone a private Git repository in Tekton pipeline | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-clone-a-private-git-repo-in-tekton-pipeline/)
 - [Install Ngix Ingress Controller in EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ngix-ingress-controller-in-eks/)
 - [How to get a free SSL Certificate from AWS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-get-a-free-ssl-certificate-from-aws/)
+- [How to add a domain with Amazon Route 53 | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-add-a-domain-with-amazon-route-53/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
