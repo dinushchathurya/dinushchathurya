@@ -16,7 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Sun Jun 18, 2023](https://www.mysitemapgenerator.com/rss/index.html)
+- [Setup Cloudwatch Container insights for EKS Cluster using Fluentd | Codingtricks-Technology for Innovators](https://codingtricks.io/setup-cloudwatch-container-insights-for-eks-cluster/)
+- [How to clone a private Git repository in Tekton pipeline | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-clone-a-private-git-repo-in-tekton-pipeline/)
+- [Install Ngix Ingress Controller in EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ngix-ingress-controller-in-eks/)
+- [How to get a free SSL Certificate from AWS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-get-a-free-ssl-certificate-from-aws/)
+- [Install Kubernetes External DNS on AWS EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/install-kubernetes-external-dns-on-aws-eks/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
