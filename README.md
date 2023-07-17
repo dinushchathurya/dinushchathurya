@@ -131,7 +131,8 @@
 <!-- <img src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg"  style="width:40px; height:40px"/> -->
 <img src="https://avatars.githubusercontent.com/u/15859888?s=48&v=4" alt="travisci" width="40" height="40"/>   
 <img src="https://img.stackshare.io/service/12670/kustomize.png"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>  
+<img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40" height="40"/> 
 <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>         
