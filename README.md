@@ -136,7 +136,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40" height="40"/> 
 <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/> 
 <img src="https://avatars.githubusercontent.com/u/44938?s=48&v=4" width="40" height="40"/> 
-<img src="https://avatars.githubusercontent.com/u/44938?s=48&v=4" width="40" height="40"/> 
+<img src="https://avatars.githubusercontent.com/u/545988?s=48&v=4" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>       
