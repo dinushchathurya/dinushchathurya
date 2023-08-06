@@ -16,11 +16,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to clone a private Git repository in Tekton pipeline | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-clone-a-private-git-repo-in-tekton-pipeline/)
-- [How to use multiple remote repositories with git | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-use-multiple-remote-repositories-with-git/)
-- [Install Ngix Ingress Controller in EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ngix-ingress-controller-in-eks/)
-- [How to get a free SSL Certificate from AWS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-get-a-free-ssl-certificate-from-aws/)
-- [Install Kubernetes External DNS on AWS EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/install-kubernetes-external-dns-on-aws-eks/)
+- [Your trial feed URL has expired  on Sat Aug 5, 2023](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
