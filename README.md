@@ -1,7 +1,7 @@
 ## Hi there, I am Dinush Chathurya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
+- 🔭 I’m currently working on [helm-client](https://github.com/open-source-srilanka/helm-client), [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
@@ -27,6 +27,11 @@
 ---
 
 ### Open Source Projects
+
+<details>
+  <summary>Docker </summary>
+    <li><a href="https://github.com/open-source-srilanka/helm-client">Docker Helm Client</a></li>
+</details>
 
 <details>
   <summary>NPM </summary>
