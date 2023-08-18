@@ -30,7 +30,8 @@
 
 <details>
   <summary>Docker </summary>
-    <li><a href="https://github.com/open-source-srilanka/helm-client">Docker Helm Client</a></li>
+    <li><a href="https://github.com/open-source-srilanka/eks-helm-client">EKS Helm Client</a></li>
+    <li><a href="https://github.com/open-source-srilanka/helm-client">Helm Client</a></li>
 </details>
 
 <details>
