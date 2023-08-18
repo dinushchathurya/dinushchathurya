@@ -57,6 +57,7 @@
 
 <details>
   <summary>GitHub Actions </summary>
+  <li><a href="https://github.com/marketplace/actions/eks-helm-client">EKS Helm Client</a></li>
   <li><a href="https://github.com/marketplace/actions/docker-login-build-tag-push-action">Docker Login, Build, Tag & Push Action</a></li>
   <li><a href="https://github.com/marketplace/actions/sinhala-quote-of-the-day">Sinhala Quote Of The Day</a></li>
 </details>
