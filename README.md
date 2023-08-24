@@ -16,7 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Sun Aug 20, 2023](https://www.mysitemapgenerator.com/rss/index.html)
+- [Dockerizing Java Springboot application using Jib and Gradle plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/dockerizing-a-spring-boot-application-using-jib-and-gradle-plugin/)
+- [Automating Java Springboot CI using Jib Gradle &amp; GitHub action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-java-springboot-ci-using-jib-gradle-github-action/)
+- [How to clone a private Git repository in Tekton pipeline | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-clone-a-private-git-repo-in-tekton-pipeline/)
+- [How to use multiple remote repositories with git | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-use-multiple-remote-repositories-with-git/)
+- [Install Ngix Ingress Controller in EKS | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-install-ngix-ingress-controller-in-eks/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
