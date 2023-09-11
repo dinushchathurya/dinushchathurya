@@ -1,4 +1,4 @@
-name: Latest BLOG
+name: Codingtricks.io 
 on:
   schedule:
     # Runs every hour
@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/0309614544"
+          feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/1109618883"
           max_post_count: 5
