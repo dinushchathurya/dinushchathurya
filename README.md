@@ -16,7 +16,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Tue Oct 10, 2023](https://www.mysitemapgenerator.com/rss/index.html)
+- [Tag: AWS Load Balancer Controller | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/AWS-Load-Balancer-Controller/)
+- [Dockerizing Java Springboot application using Jib and Gradle plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/dockerizing-a-spring-boot-application-using-jib-and-gradle-plugin/)
+- [Automating Java Springboot CI using Jib Gradle &amp; GitHub action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-java-springboot-ci-using-jib-gradle-github-action/)
+- [Automating Helm chart packaging and publishing to GitHub pages using GitHub Action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-helm-chart-packaging-using-github-actions/)
+- [How to clone a private Git repository in Tekton pipeline | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-clone-a-private-git-repo-in-tekton-pipeline/)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
