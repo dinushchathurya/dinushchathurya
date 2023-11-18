@@ -16,11 +16,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Manage Kubernetes manifests for multiple environments using Kustomize | Codingtricks-Technology for Innovators](https://codingtricks.io/manage-kubernetes-manifests-for-multiple-environments-using-kustomize/)
-- [Dockerizing Java Springboot application using Jib and Gradle plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/dockerizing-a-spring-boot-application-using-jib-and-gradle-plugin/)
-- [Automating Java Springboot CI using Jib Gradle &amp; GitHub action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-java-springboot-ci-using-jib-gradle-github-action/)
-- [Automating Helm chart packaging and publishing to GitHub pages using GitHub Action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-helm-chart-packaging-using-github-actions/)
-- [How to clone a private Git repository in Tekton pipeline | Codingtricks-Technology for Innovators](https://codingtricks.io/how-to-clone-a-private-git-repo-in-tekton-pipeline/)
+- [Your trial feed URL has expired  on Fri Nov 17, 2023](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
