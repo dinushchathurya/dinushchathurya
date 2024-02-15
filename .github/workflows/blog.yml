@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/3001698712"
+          feed_list: "https://cdn.mysitemapgenerator.com/shareapi/rss/1502705245"
           max_post_count: 5
