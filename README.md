@@ -1,7 +1,7 @@
 ## Hi there, I am Dinush Chathurya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
 
-<img alt="" src=https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg width=200 align=right>
+<img alt="" src=https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png width=200 align=right>
 
 - 🔭 I’m currently working on [helm-client](https://github.com/open-source-srilanka/helm-client), [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
