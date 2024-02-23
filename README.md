@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [helm-client](https://github.com/open-source-srilanka/helm-client), [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to [Open Source projects](https://github.com/dinushchathurya#open-source-projects)
+- 🥅 2024 Goals: Contribute more to [Open Source projects](https://github.com/dinushchathurya#open-source-projects)
 - ⚡ Fun fact: I love to read & hiking
 
 <!-- start quote -->
