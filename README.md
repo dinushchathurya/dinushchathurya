@@ -18,11 +18,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Tekton triggers with GitHub integration | Codingtricks-Technology for Innovators](https://codingtricks.io/tekton-triggers-with-github-integration/)
-- [Tag: AWS Load Balancer Controller | Codingtricks-Technology for Innovators](https://codingtricks.io/tags/AWS-Load-Balancer-Controller/)
-- [Manage Kubernetes manifests for multiple environments using Kustomize | Codingtricks-Technology for Innovators](https://codingtricks.io/manage-kubernetes-manifests-for-multiple-environments-using-kustomize/)
-- [Dockerizing Java Springboot application using Jib and Gradle plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/dockerizing-a-spring-boot-application-using-jib-and-gradle-plugin/)
-- [Automating Java Springboot CI using Jib Gradle &amp; GitHub action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-java-springboot-ci-using-jib-gradle-github-action/)
+- [Your trial feed URL has expired  on Fri Mar 15, 2024](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
