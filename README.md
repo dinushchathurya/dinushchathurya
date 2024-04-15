@@ -1,4 +1,7 @@
 ## Hi there, I am Dinush Chathurya
+
+I'm a DevOps engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Kubernetes, Docker and PHP.
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,+Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
 
 <img alt="" src=https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png width=200 align=right>
