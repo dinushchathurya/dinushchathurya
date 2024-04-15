@@ -4,7 +4,7 @@
 
 <img alt="" src=https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png width=200 align=right>
 
-I'm a DevOps engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Kubernetes, Docker and PHP.
+As a DevOps engineer deeply passionate about fostering open-source contributions and empowering communities, I thrive on creating accessible avenues for technological advancement. My toolkit includes Kubernetes, Docker, and PHP, which I wield with finesse to build bridges between innovation and people.
 
 - 🔭 I’m currently working on [helm-client](https://github.com/open-source-srilanka/helm-client), [build-tag-push-action](https://github.com/dinushchathurya/build-tag-push-action), [Script Book](https://github.com/dinushchathurya/script-book), [codingtricks.io](http://codingtricks.io/)
 - 🌱 I’m currently learning everything 🤣
