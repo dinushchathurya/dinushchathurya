@@ -21,11 +21,7 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Manage Kubernetes manifests for multiple environments using Kustomize | Codingtricks-Technology for Innovators](https://codingtricks.io/manage-kubernetes-manifests-for-multiple-environments-using-kustomize/)
-- [Dockerizing Java Springboot application using Jib and Gradle plugin | Codingtricks-Technology for Innovators](https://codingtricks.io/dockerizing-a-spring-boot-application-using-jib-and-gradle-plugin/)
-- [Automating Java Springboot CI using Jib Gradle &amp; GitHub action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-java-springboot-ci-using-jib-gradle-github-action/)
-- [Build and push Docker images using Tekton and Buildah | Codingtricks-Technology for Innovators](https://codingtricks.io/build-and-push-docker-images-using-tekton-and-buildah/)
-- [Automating Helm chart packaging and publishing to GitHub pages using GitHub Action | Codingtricks-Technology for Innovators](https://codingtricks.io/automating-helm-chart-packaging-using-github-actions/)
+- [Your trial feed URL has expired  on Fri May 24, 2024](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 ➡️ [more posts...](https://codingtricks.io)
 
