@@ -16,7 +16,6 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 💬 Quote of the Day: "සියල්ල මිලදී ගත්තද ඔබට කාලය මිලදී ගත නොහැක. එමනිසා කාලය අපතේ නොහරින්න."
 <!-- end quote -->
 
-<!--
 ---
 
 ### 📚 Latest Blog Posts
