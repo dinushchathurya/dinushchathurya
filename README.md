@@ -22,8 +22,11 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-
-- [Your trial feed URL has expired  on Fri May 24, 2024](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to Setup MySQL Master Slave Replication](https://codingtricks.io/mysql-master-slave-replication/)
+- [Integrating GitHub App with Jenkins for Automated Status Checks Before Branch Merging](https://codingtricks.io/how-to-enable-jenkins-status-checks-github/)
+- [A Comprehensive Guide to Setting Up VPC Peering in AWS](https://codingtricks.io/setting-up-vpc-peering-in-aws/)
+- [Create a Self-Hosted GitHub Action runner](https://codingtricks.io/create-a-self-hosted-github-action-runner/)
+- [How to push EC2 logs to Cloudwatch](https://codingtricks.io/how-to-push-ec2-logs-to-cloudwatch/)
 <!-- BLOG:END -->
 
 ➡️ [more posts...](https://codingtricks.io)
