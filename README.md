@@ -130,7 +130,7 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 <details>
   <summary>🔥 Streak stats</summary><br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinushchathurya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dinushchathurya&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
 <!-- markdownlint-enable MD033 -->
 
