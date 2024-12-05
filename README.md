@@ -130,7 +130,8 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 <details>
   <summary>🔥 Streak stats</summary><br>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dinushchathurya&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dinushchathurya&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
 </details>
 <!-- markdownlint-enable MD033 -->
 
