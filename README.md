@@ -21,11 +21,7 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Configure SSO Authentication in ArgoCD using Okta](https://codingtricks.io/configure-sso-authentication-in-argocd-using-okta/)
-- [Tekton triggers with GitHub integration](https://codingtricks.io/tekton-triggers-with-github-integration/)
-- [Create a self-hosted GitHub Action Runner in EKS](https://codingtricks.io/create-a-self-hosted-github-action-runner-in-eks/)
-- [How to Setup MySQL Master Slave Replication](https://codingtricks.io/mysql-master-slave-replication/)
-- [Integrating GitHub App with Jenkins for Automated Status Checks Before Branch Merging](https://codingtricks.io/how-to-enable-jenkins-status-checks-github/)
+- [Your trial feed URL has expired  on Sat Dec 7, 2024](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 
 ➡️ [more posts...](https://codingtricks.io)
