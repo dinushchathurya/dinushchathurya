@@ -21,7 +21,11 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Your trial feed URL has expired  on Sun Feb 2, 2025](https://www.mysitemapgenerator.com/rss/index.html)
+- [How to Setup MySQL Master-Master Replication](https://codingtricks.io/mysql-master-master-replication/)
+- [A Complete Guide to MySQL Indexing](https://codingtricks.io/how-to-use-indexing-in-mysql/)
+- [Configure SSO Authentication in ArgoCD using Okta](https://codingtricks.io/configure-sso-authentication-in-argocd-using-okta/)
+- [Create a self-hosted GitHub Action Runner in EKS](https://codingtricks.io/create-a-self-hosted-github-action-runner-in-eks/)
+- [How to Setup MySQL Master Slave Replication](https://codingtricks.io/mysql-master-slave-replication/)
 <!-- BLOG:END -->
 
 ➡️ [more posts...](https://codingtricks.io)
