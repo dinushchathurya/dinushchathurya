@@ -21,11 +21,7 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Backing Up Your Amazon EKS Cluster with Velero](https://codingtricks.io/backup-eks-cluster-using-velero/)
-- [How to Setup MySQL Master-Master Replication](https://codingtricks.io/mysql-master-master-replication/)
-- [Create a self-hosted GitHub Action Runner in EKS](https://codingtricks.io/create-a-self-hosted-github-action-runner-in-eks/)
-- [How to Setup MySQL Master Slave Replication](https://codingtricks.io/mysql-master-slave-replication/)
-- [A Complete Guide to MySQL Indexing](https://codingtricks.io/how-to-use-indexing-in-mysql/)
+- [Your trial feed URL has expired  on Sun Mar 23, 2025](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 
 ➡️ [more posts...](https://codingtricks.io)
