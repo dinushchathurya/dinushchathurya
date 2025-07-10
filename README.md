@@ -21,11 +21,7 @@ As a DevOps engineer deeply passionate about fostering open-source contributions
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [How to Run Docker Containers as Non-Root in Production](https://codingtricks.io/run-docker-containers-as-non-root-user/)
-- [Debugging with Git bisects](https://codingtricks.io/debugging-with-git-bisects/)
-- [Backing Up Your Amazon EKS Cluster with Velero](https://codingtricks.io/backup-eks-cluster-using-velero/)
-- [How to Setup MySQL Master-Master Replication](https://codingtricks.io/mysql-master-master-replication/)
-- [A Complete Guide to MySQL Indexing](https://codingtricks.io/how-to-use-indexing-in-mysql/)
+- [Your trial feed URL has expired  on Thu Jul 10, 2025](https://www.mysitemapgenerator.com/rss/index.html)
 <!-- BLOG:END -->
 
 ➡️ [more posts...](https://codingtricks.io)
